@@ -5,3 +5,7 @@ This is my JavaScript learning  Repository
     - simple resume 
     - simple HTML tag practice
     - simple Github Project creation using kanban board
+
+# Fahrenheit to Celsius converter
+    - index.html
+    - index.js
