@@ -3,7 +3,7 @@ function convertToCelsius(fahrenheit) {
   return celsius;
 }
 
-var fahrenheitTemp = 30; // For example, 68 degrees Fahrenheit
+var fahrenheitTemp = 90; // For example, 68 degrees Fahrenheit
 var celsiusTemp = convertToCelsius(fahrenheitTemp);
 
 console.log(
