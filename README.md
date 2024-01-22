@@ -13,3 +13,6 @@ This is my JavaScript learning  Repository
 # Block14 - Loop and Array Workshope from Pratik
     - index.html
     - index.js
+# Block 16 - Array Methods from Pratik
+    - index.html
+    - index.js
