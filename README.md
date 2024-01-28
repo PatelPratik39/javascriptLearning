@@ -16,3 +16,11 @@ This is my JavaScript learning  Repository
 # Block 16 - Array Methods from Pratik
     - index.html
     - index.js
+# Block 17 - Class and  from Pratik
+    - index.html
+    - index.js
+        -> used reduce()
+        -> used filter()
+        -> used constructor()
+# Block 18 - Testing from Pratik
+    * simple sudocode for testing
